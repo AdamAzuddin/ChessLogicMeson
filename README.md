@@ -1,4 +1,4 @@
-# ChessLogicMeson
+# ChessLogic
 
 This project is a C++17 DLL built using Meson for move generation in chess. The DLL is intended for use in a Unity project, [Deezchess-Unity](https://github.com/AdamAzuddin/Deezchess-Unity), to provide efficient chess move logic.
 
@@ -24,7 +24,7 @@ cd ChessLogicMeson
 
 ### 2. Initialize and Install Dependencies
 
-This project is using the meson build system. https://mesonbuild.com/
+This project is using the [meson build system](https://mesonbuild.com/).
 
 #### Setup
 
