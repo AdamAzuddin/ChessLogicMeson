@@ -1,0 +1,43 @@
+# Meson build directories
+build/
+meson-private/
+meson-out/
+
+# CMake build directories (if any)
+CMakeFiles/
+CMakeCache.txt
+
+# VS Code folders
+.vs/
+.vscode/
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Dependency directories
+third_party/
+vendor/
